@@ -1,1 +1,7 @@
- 
+langchain==0.3.25
+langchain-openai==0.3.18
+python-dotenv==1.1.0
+pdfminer.six==20250506
+faiss-cpu==1.11.0
+streamlit==1.45.1
+openai==1.82.0 
